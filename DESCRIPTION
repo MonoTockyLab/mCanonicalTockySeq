@@ -1,0 +1,12 @@
+Package: mCanonicalTockySeq
+Title: Multidimensional Canonical Tocky Analysis of Temporal and Developmental Structure in Single-Cell Transcriptomes
+Version: 0.1.0
+Authors@R: person("Masahiro", "Ono", email = "monotockylab@gmail.com", role = c("aut", "cre"), comment = c(ORCID="0000-0002-9284-7326"))
+Description: Implements 'mCanonicalTockySeq' for analysis of systems in which temporal progression and developmental progression are recorded simultaneously in single-cell RNA-seq data. The package constructs a shared canonical space from biologically defined Tocky and developmental landmark populations using a redundancy-analysis-like constrained projection. It provides 'mGradientTockySeq' for extraction of a continuous Tocky manifold using piecewise spherical linear interpolation (SLERP), 'mGetFateScores' for developmental projection onto lineage endpoint vectors, gene-centric trajectory-tube analysis across Tocky Time, and projection of new datasets into an established canonical Tocky reference space.
+Depends: R (>= 4.2.0)
+Imports: MASS, dplyr, ggplot2, patchwork, plotly, scales, shiny, BiocParallel, irlba, Matrix, pheatmap, tradeSeq, Seurat, methods, utils, rlang
+License: file LICENSE
+URL: https://MonoTockyLab.github.io/mCanonicalTockySeq, https://github.com/MonoTockyLab/mCanonicalTockySeq
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3

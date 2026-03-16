@@ -1,0 +1,36 @@
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# --- R & RStudio Core ---
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+.Rapp.history
+.Rmd_checkpoints/
+
+# --- Build & Check Outputs ---
+.Rcheck/
+*.tar.gz
+*.log
+*.out
+*.Rd
+*.so
+*.dll
+
+# --- Dependencies & Environment ---
+packrat/
+renv/library/
+renv/local/
+.httr-oauth
+.env
+.secret
+config.yml
+/doc/
+/Meta/
