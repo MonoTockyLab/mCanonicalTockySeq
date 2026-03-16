@@ -2,6 +2,8 @@
 
 [![Documentation](https://img.shields.io/badge/docs-GitHub_Pages-blue.svg)](https://monotockylab.github.io/mCanonicalTockySeq/index.html)
 
+[![DOI](https://zenodo.org/badge/1183084801.svg)](https://doi.org/10.5281/zenodo.19054871)
+
 [![](reference/figures/mCanonicalTockySeqLogo.jpg)](https://monotockylab.github.io/mCanonicalTockySeq/index.html)
 
 **Author:** Dr Masahiro Ono  
@@ -101,6 +103,8 @@ preprint:
 ```
 
 ### R package
+
+[![DOI](https://zenodo.org/badge/1183084801.svg)](https://doi.org/10.5281/zenodo.19054871)
 
 ``` bibtex
 @Manual{Ono2026mCanonicalTockySeq,
