@@ -4,6 +4,8 @@
 
 [![DOI](https://zenodo.org/badge/1183084801.svg)](https://doi.org/10.5281/zenodo.19054871)
 
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.03.16.711988-b31b1b.svg)](https://www.biorxiv.org/content/10.64898/2026.03.16.711988v1)
+
 [![](reference/figures/mCanonicalTockySeqLogo.jpg)](https://monotockylab.github.io/mCanonicalTockySeq/index.html)
 
 **Author:** Dr Masahiro Ono  
@@ -80,6 +82,8 @@ If you use `mCanonicalTockySeq` in your research, please cite the
 associated manuscript and the R package.
 
 ### bioRxiv preprint
+
+[![bioRxiv](https://img.shields.io/badge/bioRxiv-2026.03.16.711988-b31b1b.svg)](https://www.biorxiv.org/content/10.64898/2026.03.16.711988v1)
 
 For a detailed description of the biological applications and underlying
 methodology of **mCanonicalTockySeq**, please refer to the associated
